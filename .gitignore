@@ -1,0 +1,11 @@
+out/
+trailer1.mp4
+trailer2.mp4
+__pycache__/
+*.pyc
+seg*.mp4
+video_noaudio.mp4
+audio.m4a
+concat.txt
+hook.png
+pitch.png
